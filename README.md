@@ -6,7 +6,7 @@ Code for each chapter is in the following subfolders.
 
 Part I - Offensive Security with R
 ----------------------------------
-Chapter 1 - An Introduction to R
+Chapter 1 - An Overview of R
 
 Chapter 2 - Useful R Features: Packages, Files, and the Shell 
 
